@@ -18,7 +18,7 @@ body {
     /* background-color: honeydew; */
     background-image: url('https://images.pexels.com/photos/1008739/pexels-photo-1008739.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
     background-repeat: no-repeat;
-    background-size: cover;
+    /* background-size: cover; */
     background-position: center;
     font-family: Helvetica, Arial, sans-serif;
     color: #888;
