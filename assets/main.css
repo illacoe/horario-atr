@@ -100,19 +100,21 @@ body {
 }
 
 .schedule__inner{
-    display: flex;
-    flex-direction: column;
-    padding: 6px 10px;
+    display: grid; 
+    gap: 5px;
+    padding: 5px;
 }
 .block{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     color: #000000;
+    text-align: center;
 
 }
 .block > *{
     display: flex;
     justify-content: center;
+    align-items: center;
     padding: 10px;
 }
 
